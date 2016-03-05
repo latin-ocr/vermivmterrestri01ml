@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vermivmterrestri01ml_0040.png"; bbox 0 0 2062 2696; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 784 1078 1606 1206">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 784 1078 1606 1206">
+     <span class='ocr_line' id='line_1_1' title="bbox 790 1078 1606 1121; baseline -0.001 -10"><span class='ocrx_word' id='word_1_1' title='bbox 790 1082 891 1113; x_wconf 81' lang='lat' dir='ltr'><strong><em>Nonne</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 913 1081 1006 1116; x_wconf 77' lang='lat' dir='ltr'><em>vides,</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1028 1089 1192 1121; x_wconf 76' lang='lat' dir='ltr'><em>quaecunque</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1214 1089 1294 1110; x_wconf 79' lang='lat' dir='ltr'><strong><em>mora</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1309 1078 1454 1120; x_wconf 77' lang='lat' dir='ltr'><em>fluidoque</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1476 1081 1606 1120; x_wconf 83' lang='lat' dir='ltr'><em>liquore,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 784 1162 1505 1206; baseline -0.003 -12"><span class='ocrx_word' id='word_1_7' title='bbox 784 1164 916 1206; x_wconf 74' lang='lat' dir='ltr'><strong><em>Corpora</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 939 1163 1093 1199; x_wconf 76' lang='lat' dir='ltr'><em>tabuerint,</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1115 1165 1143 1193; x_wconf 82' lang='lat' dir='ltr'><em>in</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1161 1171 1252 1205; x_wconf 76' lang='lat' dir='ltr'><em>parva</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1276 1162 1403 1193; x_wconf 79' lang='lat' dir='ltr'><em>animalia</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1419 1164 1505 1196; x_wconf 75' lang='lat' dir='ltr'><em>verti,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1446 1244 1850 1286">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1446 1244 1850 1286">
+     <span class='ocr_line' id='line_1_3' title="bbox 1446 1244 1850 1286; baseline -0.01 -9"><span class='ocrx_word' id='word_1_13' title='bbox 1446 1247 1535 1279; x_wconf 82' lang='lat' dir='ltr'>Ovm.</span> <span class='ocrx_word' id='word_1_14' title='bbox 1549 1252 1664 1280; x_wconf 74' lang='lat' dir='ltr'><strong>metam,</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1690 1244 1712 1280; x_wconf 78' lang='lat'><em>1,</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1730 1253 1781 1285; x_wconf 81' lang='lat'><em>15.</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1795 1254 1850 1286; x_wconf 78' lang='lat'><em>24.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
